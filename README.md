@@ -3,9 +3,9 @@ Bank_Management_System by Suchit Navghare in c++
 
 Author
 This project was developed and written by Suchit Navghare.
-    • Email: suchitatwork@gmail.com
-    • GitHub: suchitnavghare13
-    • LinkedIn: Suchit Navghare
+    • Email: suchitnavghare13@gmail.com/suchitatwork@gmail.com
+    • GitHub: https://github.com/suchitnavghare13
+    • LinkedIn: https://www.linkedin.com/in/suchit-navghare-a0980b211/
 Feel free to reach out if you have any questions or suggestions regarding this project!
 
 # Overview
@@ -106,3 +106,5 @@ Your account 202401 on the name of John current balance is 6500.
 # Contributing
 
 Feel free to fork this project and submit pull requests if you want to contribute or improve the code. Any form of contribution is welcome!
+© 2024 Suchit Navghare. All rights reserved.
+
